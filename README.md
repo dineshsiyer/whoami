@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Dinesh Iyer</h1>
 <h3 align="center">A Data Enthusiast from India</h3>
 
-- Tableau Projects [Click Here](https://public.tableau.com/app/profile/dineshsiyer/vizzes)
+View My work
+- ### [Tableau Projects](https://github.com/dineshsiyer/Tableau-Projects)
 
-- Excel Projects [Click Here](https://public.tableau.com/app/profile/dineshsiyer/vizzes)
+- ### [Excel Projects](https://github.com/dineshsiyer/Excel-Projects)
 
-- Power BI Projects [Click Here](https://public.tableau.com/app/profile/dineshsiyer/vizzes)
+- ### [Power BI Projects](https://github.com/dineshsiyer/Power-BI-Projects)
 
-- SQL Projects [Click Here](https://public.tableau.com/app/profile/dineshsiyer/vizzes)
+- ### [SQL Projects]()
 
-- Python Projects [Click Here](https://public.tableau.com/app/profile/dineshsiyer/vizzes)
-  
-- R Projects [Click Here](https://public.tableau.com/app/profile/dineshsiyer/vizzes)
+- ### [Python Projects]()
+
+- ### [R Projects]()
+
+- ### [SPSS Projects]()
 
 - 📫 How to reach me **dinesh.iyer01@gmail.com**
 
