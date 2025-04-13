@@ -2,11 +2,11 @@
 <h3 align="center">A Data Enthusiast from India</h3>
 
 View My work
-- ### [Tableau Projects](https://github.com/dineshsiyer/Tableau-Projects)
+- <h3> <a href="https://github.com/dineshsiyer/Tableau-Projects" target="_blank">Tableau Projects</a> </h3>
 
-- ### [Excel Projects](https://github.com/dineshsiyer/Excel-Projects)
+- <h3> <a href="https://github.com/dineshsiyer/Excel-Projects" target="_blank">Excel Projects</a> </h3>
 
-- ### [Power BI Projects](https://github.com/dineshsiyer/Power-BI-Projects)
+- <h3> <a href="https://github.com/dineshsiyer/Power-BI-Projects" target="_blank">Power BI Projects</a> </h3>
 
 - ### [SQL Projects]()
 
